@@ -260,7 +260,7 @@ p{
     margin-top: 8px;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 720px) {
     *{
         background-color: skyblue;
     }
